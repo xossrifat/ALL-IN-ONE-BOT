@@ -1,8 +1,8 @@
 {
-    "token": "",
+    "token": "MTMwNDA5NDc3MTcxMDY1NjU3NA.GLqMV1.TtTlTMdblJw-vScj_4QWchJYOjZkgZtyusU5_M",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://hirifat72:falcon123@cluster0.oggiw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
         "utility": true,
